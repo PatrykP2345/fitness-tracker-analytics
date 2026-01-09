@@ -1,2 +1,6 @@
-print("tw¢rzplan123") 
-    return typ 
+blad = 1 
+print("tworzenie planu treningowego") 
+if blad==0: 
+    print("blad") 
+else: 
+    print("stworzonyyy") 
