@@ -1,2 +1,5 @@
 print("twórz plan treningowy")
-print("stworzony")
+if blad=0:
+    print("błąd")
+else:
+    print("stworzony")
